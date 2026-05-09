@@ -48,7 +48,7 @@ L’objectif du projet est de manipuler les services de localisation Android ain
 ##  Démonstration
 
 ### Fonctionnement de l'application
-![Demo](smarttracer%20video.gif)
+![Demo](smarttracervideo.gif)
 ###  Interface principale
 ![Interface](interface.png)
 
